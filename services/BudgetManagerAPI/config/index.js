@@ -3,5 +3,5 @@
 module.exports = {
 	secret: 'budgetsecret',
 	session: {session: false},
-	database: 'mongodb://127.0.0.1:27017/budgetmanager' 
+	databaseURL: 'mongodb://admin:2024@ds031751.mlab.com:31751/habib' 
 }
